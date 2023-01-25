@@ -1,3 +1,0 @@
-Programacion orientada a objeto
-Principio SOLID
- coPatron de diseno
